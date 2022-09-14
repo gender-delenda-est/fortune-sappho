@@ -1,6 +1,6 @@
 # fortune-sappho
 
-This is a pair of files for the unix/linux 'fortune' tool that provide a fairly comprehensive selection of Sappho's fragments (in English translation).
+This is a pair of files for the unix/linux 'fortune' tool that provide a fairly comprehensive selection of Sappho's fragments (in English translation by Anne Carson).
 
 # Use
 
